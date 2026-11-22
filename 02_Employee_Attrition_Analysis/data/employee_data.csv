@@ -1,0 +1,151 @@
+Employee_ID,Department,Job_Role,Age,Years_At_Company,Job_Satisfaction,Monthly_Income,Overtime,Attrition
+1,Human Resources,HR Executive,28,0,3,4900,Yes,No
+2,Human Resources,HR Executive,26,6,1,2100,Yes,Yes
+3,Human Resources,HR Executive,22,4,2,10900,No,No
+4,Research & Development,Research Scientist,21,1,4,6100,No,No
+5,Research & Development,Laboratory Technician,27,1,4,3000,No,No
+6,Sales,Sales Executive,50,17,1,13600,No,No
+7,Human Resources,HR Executive,44,18,2,10800,Yes,Yes
+8,Research & Development,Laboratory Technician,26,3,1,6600,No,No
+9,Research & Development,Manager,31,5,3,4400,No,No
+10,Human Resources,HR Manager,25,2,2,3800,No,Yes
+11,Human Resources,HR Executive,56,7,3,12500,Yes,No
+12,Research & Development,Research Scientist,46,8,1,4500,No,No
+13,Research & Development,Manager,50,4,3,3500,Yes,Yes
+14,Research & Development,Research Scientist,58,13,4,6400,Yes,No
+15,Sales,Manager,24,6,1,3700,Yes,Yes
+16,Sales,Manager,45,12,4,8500,No,No
+17,Sales,Sales Executive,28,10,3,11600,No,No
+18,Sales,Manager,50,0,3,8200,Yes,No
+19,Research & Development,Research Scientist,53,19,2,3700,No,Yes
+20,Human Resources,HR Manager,21,2,4,2000,Yes,No
+21,Research & Development,Research Scientist,36,1,2,13000,Yes,No
+22,Human Resources,HR Manager,29,2,4,13900,Yes,Yes
+23,Human Resources,HR Manager,48,6,2,10900,No,No
+24,Human Resources,HR Executive,44,14,4,3300,Yes,Yes
+25,Sales,Sales Executive,58,17,2,9300,Yes,Yes
+26,Human Resources,HR Manager,24,1,1,13300,Yes,Yes
+27,Sales,Manager,38,15,2,8700,Yes,No
+28,Research & Development,Research Scientist,36,15,4,4200,Yes,No
+29,Research & Development,Manager,48,13,4,12800,Yes,No
+30,Human Resources,HR Executive,27,0,4,11100,No,No
+31,Sales,Sales Representative,55,14,2,7200,Yes,Yes
+32,Sales,Sales Executive,49,17,1,2400,Yes,No
+33,Sales,Sales Executive,47,15,4,4500,No,No
+34,Sales,Manager,45,8,4,5400,No,No
+35,Human Resources,HR Executive,52,4,2,5500,Yes,Yes
+36,Human Resources,Recruiter,24,5,3,2500,Yes,Yes
+37,Human Resources,HR Executive,31,0,1,12600,Yes,Yes
+38,Human Resources,Recruiter,36,12,1,13800,Yes,Yes
+39,Human Resources,HR Executive,26,6,3,13700,No,No
+40,Research & Development,Laboratory Technician,36,8,4,3400,No,No
+41,Sales,Manager,21,3,1,2700,Yes,Yes
+42,Research & Development,Laboratory Technician,25,3,3,5400,Yes,No
+43,Human Resources,Recruiter,40,19,1,10300,No,No
+44,Sales,Sales Representative,37,3,1,11300,Yes,Yes
+45,Sales,Sales Representative,42,6,3,8200,No,No
+46,Sales,Sales Representative,26,6,3,2300,Yes,No
+47,Research & Development,Manager,31,11,4,8800,No,Yes
+48,Sales,Manager,30,8,1,12400,No,No
+49,Research & Development,Laboratory Technician,29,0,3,6400,Yes,Yes
+50,Sales,Sales Executive,27,5,4,9700,Yes,No
+51,Sales,Sales Representative,47,0,2,11200,No,No
+52,Sales,Sales Representative,38,5,1,6600,Yes,Yes
+53,Research & Development,Manager,43,9,2,4600,Yes,Yes
+54,Research & Development,Manager,38,2,3,6200,No,No
+55,Human Resources,HR Executive,42,0,1,13000,No,Yes
+56,Research & Development,Laboratory Technician,23,0,4,6200,No,No
+57,Human Resources,Recruiter,28,6,2,5000,Yes,Yes
+58,Human Resources,Recruiter,55,6,3,7300,Yes,No
+59,Human Resources,Recruiter,41,3,3,8200,No,No
+60,Research & Development,Manager,39,17,2,4200,No,No
+61,Human Resources,HR Manager,32,9,3,6900,Yes,No
+62,Research & Development,Laboratory Technician,58,19,3,7700,No,No
+63,Human Resources,HR Executive,51,5,1,5400,No,No
+64,Sales,Sales Executive,40,7,2,3600,Yes,Yes
+65,Research & Development,Manager,25,7,4,13100,Yes,No
+66,Research & Development,Research Scientist,46,7,2,10100,Yes,No
+67,Human Resources,HR Executive,54,14,1,8900,Yes,Yes
+68,Research & Development,Manager,54,17,3,13900,No,No
+69,Human Resources,Recruiter,48,17,4,13200,Yes,No
+70,Research & Development,Manager,37,7,3,11600,No,No
+71,Research & Development,Laboratory Technician,25,4,2,5200,No,No
+72,Sales,Manager,29,2,2,6700,Yes,Yes
+73,Research & Development,Research Scientist,47,10,4,7100,Yes,No
+74,Research & Development,Laboratory Technician,58,0,4,7900,Yes,Yes
+75,Research & Development,Laboratory Technician,47,17,2,8000,Yes,Yes
+76,Sales,Sales Representative,45,10,4,11000,Yes,No
+77,Human Resources,HR Executive,55,0,4,9300,Yes,Yes
+78,Sales,Sales Representative,50,5,1,5100,No,No
+79,Research & Development,Laboratory Technician,42,12,3,11400,No,No
+80,Research & Development,Research Scientist,22,4,1,13900,No,No
+81,Human Resources,Recruiter,23,0,2,4300,Yes,Yes
+82,Sales,Sales Representative,51,3,2,7700,No,No
+83,Human Resources,HR Manager,28,2,3,3100,Yes,Yes
+84,Research & Development,Research Scientist,46,6,1,9300,Yes,Yes
+85,Research & Development,Manager,28,9,1,6200,No,No
+86,Human Resources,HR Executive,42,0,4,12300,No,No
+87,Research & Development,Manager,50,4,4,4000,No,No
+88,Human Resources,HR Manager,51,14,4,12300,No,No
+89,Sales,Manager,38,14,2,11400,No,No
+90,Research & Development,Research Scientist,42,0,4,12600,No,No
+91,Research & Development,Manager,37,10,3,13000,No,Yes
+92,Sales,Manager,26,3,4,8000,Yes,No
+93,Human Resources,HR Executive,52,14,1,2900,No,Yes
+94,Sales,Sales Representative,40,18,3,7800,No,No
+95,Human Resources,HR Manager,42,11,4,5200,No,No
+96,Human Resources,HR Executive,33,10,1,11300,Yes,Yes
+97,Research & Development,Laboratory Technician,38,18,3,3000,Yes,Yes
+98,Sales,Sales Executive,40,0,2,5300,Yes,Yes
+99,Human Resources,Recruiter,29,10,4,3100,Yes,Yes
+100,Research & Development,Laboratory Technician,49,10,2,2400,No,Yes
+101,Sales,Sales Executive,46,15,1,9100,Yes,Yes
+102,Human Resources,Recruiter,40,2,2,3300,No,Yes
+103,Human Resources,HR Manager,35,16,4,7500,No,No
+104,Research & Development,Research Scientist,40,18,1,9600,Yes,Yes
+105,Research & Development,Research Scientist,26,2,2,4000,Yes,Yes
+106,Research & Development,Manager,51,9,1,4700,No,No
+107,Research & Development,Laboratory Technician,25,3,3,11800,Yes,No
+108,Sales,Sales Executive,30,4,2,2700,Yes,No
+109,Human Resources,Recruiter,39,14,1,7700,No,No
+110,Research & Development,Manager,53,17,4,7400,Yes,Yes
+111,Research & Development,Research Scientist,41,19,3,2100,Yes,No
+112,Human Resources,HR Executive,58,0,3,9100,Yes,Yes
+113,Human Resources,Recruiter,49,8,2,9200,No,No
+114,Sales,Manager,51,11,4,6000,No,No
+115,Sales,Manager,42,13,4,5400,No,Yes
+116,Sales,Manager,41,8,3,3200,No,No
+117,Sales,Manager,55,14,4,2400,Yes,Yes
+118,Research & Development,Laboratory Technician,49,1,2,5200,Yes,Yes
+119,Human Resources,Recruiter,52,3,1,9800,Yes,Yes
+120,Human Resources,HR Manager,21,3,1,4600,Yes,No
+121,Sales,Sales Representative,52,9,3,7100,No,No
+122,Human Resources,HR Executive,30,6,2,13500,Yes,Yes
+123,Research & Development,Laboratory Technician,42,16,3,12300,Yes,No
+124,Human Resources,HR Manager,58,15,2,7500,No,No
+125,Human Resources,Recruiter,45,14,3,12900,Yes,No
+126,Research & Development,Manager,35,13,1,5800,No,No
+127,Research & Development,Research Scientist,45,20,2,8100,Yes,Yes
+128,Human Resources,HR Executive,42,3,4,3000,No,No
+129,Research & Development,Laboratory Technician,30,1,4,11800,No,No
+130,Research & Development,Manager,26,5,4,14000,No,No
+131,Research & Development,Research Scientist,55,1,1,4800,No,No
+132,Sales,Sales Executive,27,7,2,10600,No,Yes
+133,Sales,Sales Executive,39,11,3,7300,Yes,No
+134,Human Resources,Recruiter,32,2,2,2800,No,Yes
+135,Research & Development,Laboratory Technician,58,4,2,7700,No,No
+136,Sales,Sales Representative,50,9,2,2700,No,No
+137,Research & Development,Laboratory Technician,37,14,3,4300,No,No
+138,Research & Development,Research Scientist,57,11,3,10700,No,No
+139,Human Resources,Recruiter,46,8,1,9000,Yes,No
+140,Research & Development,Manager,35,11,2,9900,Yes,Yes
+141,Human Resources,HR Manager,29,10,1,13300,Yes,Yes
+142,Research & Development,Research Scientist,29,1,3,5900,No,No
+143,Human Resources,HR Manager,44,16,3,12400,Yes,No
+144,Research & Development,Research Scientist,39,10,1,7700,Yes,No
+145,Human Resources,HR Executive,46,17,3,2900,No,No
+146,Sales,Manager,50,11,3,9200,No,No
+147,Sales,Manager,35,15,1,9700,No,No
+148,Sales,Sales Executive,50,9,4,3200,Yes,No
+149,Research & Development,Laboratory Technician,28,1,2,13100,Yes,Yes
+150,Human Resources,Recruiter,55,13,2,13100,No,No

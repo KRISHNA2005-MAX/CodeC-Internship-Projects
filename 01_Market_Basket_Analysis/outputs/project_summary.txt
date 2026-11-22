@@ -1,0 +1,11 @@
+MARKET BASKET ANALYSIS - SUMMARY
+--------------------------------
+Total transactions: 40
+Most frequently purchased product: Bread
+Most common product pair: Bread + Milk
+Times bought together: 15
+Support: 37.5%
+
+Business suggestion: The store can consider placing frequently paired products
+near each other or testing a combo offer. This is a suggestion for further testing,
+not proof that a promotion will increase sales.

@@ -1,0 +1,8 @@
+EMPLOYEE ATTRITION ANALYSIS - SUMMARY
+-------------------------------------
+Total employees: 150
+Employees who left: 56
+Overall attrition rate: 37.33%
+
+Department-wise counts and average income are available in the outputs folder.
+Use these findings as starting points for HR investigation, not as proof of causes.

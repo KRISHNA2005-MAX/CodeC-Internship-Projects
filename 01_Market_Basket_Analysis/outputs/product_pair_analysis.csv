@@ -1,0 +1,19 @@
+Product_1,Product_2,Times_Bought_Together,Support_Percent
+Bread,Milk,15,37.5
+Dal,Rice,9,22.5
+Bread,Butter,7,17.5
+Bread,Eggs,7,17.5
+Sugar,Tea,7,17.5
+Eggs,Milk,6,15.0
+Cooking Oil,Rice,6,15.0
+Cooking Oil,Dal,5,12.5
+Biscuits,Tea,5,12.5
+Butter,Milk,4,10.0
+Curd,Milk,4,10.0
+Bread,Curd,3,7.5
+Biscuits,Sugar,3,7.5
+Milk,Sugar,2,5.0
+Milk,Tea,2,5.0
+Curd,Dal,1,2.5
+Curd,Rice,1,2.5
+Butter,Eggs,1,2.5
